@@ -53,9 +53,7 @@
     <Compile Include="LongerTimeoutWebClient.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Program.cs">
-      <SubType>Component</SubType>
-    </Compile>
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Transaction.cs" />
     <Compile Include="ScriptPubKey.cs" />
